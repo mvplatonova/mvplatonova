@@ -15,7 +15,7 @@ Communication, Problem-solving, Critical thinking, Time management, Tolerance, O
 ## Experience
 1. **LLC Yandex** *Jan 2024 - Present* \
 Middle Java Developer
-    1. NDA
+    1. Development of talk analytics tool
 2. **LLC Softcom** *Dec 2020 - Jan 2024* \
 Middle Java Developer
     1. Development of an embedded IDE
