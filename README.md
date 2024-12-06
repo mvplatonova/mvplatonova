@@ -34,8 +34,11 @@ Junior Java Developer
     3. Supporting and testing: wrote documentation for users and developers, participated in manual testing, developed automated tests using JUnit 
 
 ## Personal Information
-1. Understanding of main data structures and algorithms
-2. Languages: Russian (native), English (B2), Finnish (A2)
+
+Since my early years, I've held a deep fascination for mathematics and the art of problem-solving. This passion led me to dedicate a significant portion of my academic journey to the study of mathematics, which culminated in my active participation in various math competitions. \
+During my high school years, I ventured into the world of programming, and it quickly became apparent that this was my true calling. I realized that I wanted to make a lifelong commitment to the field. With this goal in mind, I made the decision to pursue a degree in software engineering at Saint Petersburg State University. \
+Throughout my career, I've faced many complex challenges that seemed difficult at first. By utilizing my mathematical skills, creativity, and determination, I've consistently found effective solutions. \
+I'm excited about the chance to learn more and tackle fresh, inspiring challenges in the future. \
 
 ## Projects
 
