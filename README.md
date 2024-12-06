@@ -4,10 +4,15 @@
 e-mail: marja.platonova@gmail.com \
 location: St.Petersburg, Russia
 
+## Education
+
+1. Bachelor: Saint Petersburg State University, Mathematics and Mechanics Faculty, Department of Software Engineering
+2. Magister: Higher School of Economics, The Faculty of Computer Science
+
 ## Skills
 
 ### Core Skills
-Java, Spring, PostgreSQL, Kafka, Clickhouse, Terraform, GRPC, REST, Git
+Java, Spring, PostgreSQL, Kafka, ClickHouse, Terraform, GRPC, REST, Git
 
 ### Soft Skills
 Communication, Problem-solving, Critical thinking, Time management, Tolerance, Open-mindedness, Adaptability
@@ -35,10 +40,8 @@ Junior Java Developer
 
 ## Personal Information
 
-Since my early years, I've held a deep fascination for mathematics and the art of problem-solving. This passion led me to dedicate a significant portion of my academic journey to the study of mathematics, which culminated in my active participation in various math competitions. \
-During my high school years, I ventured into the world of programming, and it quickly became apparent that this was my true calling. I realized that I wanted to make a lifelong commitment to the field. With this goal in mind, I made the decision to pursue a degree in software engineering at Saint Petersburg State University. \
-Throughout my career, I've faced many complex challenges that seemed difficult at first. By utilizing my mathematical skills, creativity, and determination, I've consistently found effective solutions. \
-I'm excited about the chance to learn more and tackle fresh, inspiring challenges in the future. \
+1. Understanding of main data structures and algorithms
+2. Languages: Russian (native), English (B2), Finnish (A2)
 
 ## Projects
 
